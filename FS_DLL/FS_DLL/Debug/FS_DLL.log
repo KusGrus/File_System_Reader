@@ -1,0 +1,9 @@
+﻿  FS_DLL.cpp
+D:\GitHub\File_System_Reader\FS_DLL\FS_DLL\FS_DLL.cpp(8): warning C4273: getInfo: несовместимая компоновка dll
+  D:\GitHub\File_System_Reader\FS_DLL\FS_DLL\FS_DLL.h(83): note: см. предыдущее определение "getInfo"
+  FS_Factory.cpp
+  NTFS.cpp
+  Создание кода...
+D:\GitHub\File_System_Reader\FS_DLL\FS_DLL\FS_Factory.cpp(17): warning C4715: FileSystemFactory::create: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\GitHub\File_System_Reader\FS_DLL\Debug\FS_DLL.lib и объект D:\GitHub\File_System_Reader\FS_DLL\Debug\FS_DLL.exp
+  FS_DLL.vcxproj -> D:\GitHub\File_System_Reader\FS_DLL\Debug\FS_DLL.dll
